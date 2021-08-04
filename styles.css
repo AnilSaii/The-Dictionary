@@ -1,0 +1,29 @@
+form {
+    padding: 20px 20px 20px 10px;
+}
+
+#meaning
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.outline
+{
+    min-width: 600px;
+    max-width: 100%;
+    position: relative;
+    vertical-align:middle;
+    color: white;
+}
+
+audio
+{
+    padding-top: 30px;
+}
+
+body
+{
+    background-color: rgb(122, 122, 122);
+}
